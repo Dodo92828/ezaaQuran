@@ -1,0 +1,58 @@
+body{
+    background-color: #0f172a;
+
+    font-family: 'Amiri',serif;
+}
+.header-name #title{
+    color: #f59e0b;
+    text-align: center;
+    margin: auto;
+}
+.Section #Select-reader-text{
+    text-align: center;
+    color: rgb(238, 255, 0);
+    
+}
+.Section .Select-reader{
+    border: solid;
+    border-radius: 5px;
+    border-color: #f59e0b;
+    height: 100%;
+    width: 65%;
+    margin: auto;
+}
+ #search-bar{
+    height: 45px;
+    width: 60%;
+    border-color: plum;
+    border-radius: 30px;
+    display: block;
+    margin: auto;
+    
+    
+    
+}
+#reader-color{
+    color: rgb(202, 230, 159);
+    font-size: 25px;
+    
+    
+
+}
+
+img{
+    height: auto;
+    width: 100px;
+    border-radius: 50px;
+}
+
+#m-text,#y-text,#listen{
+    font-weight: 3px;
+    font-size: 20px;
+    color: white;
+    border: solid 1px ;
+    border-radius: 10px;
+   
+
+}
+
