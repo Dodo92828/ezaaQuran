@@ -1,0 +1,45 @@
+body{
+    background-color: #0f172a;
+}
+header{
+    text-align: center;
+    color: #f59e0b;
+    margin: auto;
+}
+
+.img-m-p{
+    height: 40%;
+    width: 20%;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+
+}
+ h1 {
+     text-align:center; 
+    }
+   
+ .surahs { 
+    display:grid; 
+    grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); 
+    gap:10px; 
+    max-width:1000px; 
+    margin:auto; 
+}
+    
+ .surahs a { 
+    display:block; 
+    padding:10px; 
+    background:#fff; 
+    border:1px solid #d8d2c0; 
+    border-radius:8px; 
+    text-decoration:none; 
+    color:#1b5e3b; 
+    text-align:center; 
+}
+
+    
+ .surahs a:hover {
+     background:#1b5e3b; 
+     color:#fff;
+     }
